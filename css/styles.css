@@ -1,0 +1,12 @@
+option[value="empty"]{
+  display: none;
+}
+.btn{
+  border: 1px solid black;
+  width: 100%;
+  transition: .4s;
+}
+.btn:hover{
+  background-color: black;
+  color: white;
+}
