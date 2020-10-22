@@ -10,3 +10,8 @@ option[value="empty"]{
   background-color: black;
   color: white;
 }
+.results{
+  padding: 20px;
+  text-align: center;
+  font-size: 30px;
+}
